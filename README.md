@@ -1,5 +1,5 @@
 <div align=center>
-<img src="./static/hou.png"/>
+<img src="https://github.com/lengqie/Hou.GS/raw/master/static/hou.png"/>
 </div>
 <div align=center>
 <img src="https://img.shields.io/badge/golang-1.14.2-blue"/>
@@ -16,7 +16,7 @@
 
 一个基于Gin、Vue，前后端分离的短网址项目。
 
-![](.\static\dome.jpg)
+![](https://raw.githubusercontent.com/lengqie/Hou.GS/master/static/dome.jpg)
 
 ### 1.2 功能
 
